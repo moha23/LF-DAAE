@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## Abstract
 
-You can use the [editor on GitHub](https://github.com/moha23/LF-DAAE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moha23/LF-DAAE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Light field technology has increasingly attracted the attention of the research community with its many possible applications. The lenslet array in commercial plenoptic cameras helps capture both the spatial and angular information of light rays in a single exposure. While the resulting high dimensionality of light field data enables its superior capabilities, it also impedes its extensive adoption. Hence, there is a compelling need for efficient compression of light field images. Existing solutions are commonly composed of several separate modules, some of which may not have been designed for the specific structure and quality of light field data. This increases the complexity of the codec and results in impractical decoding runtimes. We propose a new learning-based, disparity-aided model for compression of 4D light field images capable of parallel decoding. The model is end-to-end trainable, eliminating the need for hand-tuning separate modules and allowing joint learning of rate and distortion. The disparity-aided approach ensures the structural integrity of the reconstructed light fields. Comparisons with the state of the art show encouraging performance in terms of PSNR and MS-SSIM metrics. Also, there is a notable gain in the encoding and decoding
+runtimes.
