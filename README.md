@@ -11,7 +11,7 @@ This is the source code to our compression model in "Learning-Based Practical Li
 - tensorflow-compression 2.0b2
 - tensorflow-addons 0.12
 
-A singularity container with all required packages is available, contact at s18002@students.iitmandi.ac.in. 
+A [Singularity container](https://sylabs.io/singularity/) with all required packages is available, contact at s18002@students.iitmandi.ac.in. 
 
 ## Training and test data 
 
