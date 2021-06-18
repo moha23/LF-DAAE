@@ -62,7 +62,7 @@ This will read all 64 views in `'examplefolder'` and compress each row and save 
 
 To decompress a bitstream:
 ```
-python lfdaae.py compress './output/ex.tfci' './output'
+python lfdaae.py decompress './output/ex.tfci' './output'
 ```
 
 ## To do
