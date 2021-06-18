@@ -65,7 +65,7 @@ To decompress a bitstream:
 python lfdaae.py compress './output/ex.tfci' './output'
 ```
 
-## TO DO
+## To do
 
 - Update code for compatibility with TF2.5 and TFC2.2
 - Add paper/video links
