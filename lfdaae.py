@@ -495,7 +495,7 @@ def parse_args(argv):
 	train_cmd.add_argument(
 	    "--batch_size", type=int, default=30,
 	    help="Batch size for training.")
-    train_cmd.add_argument(
+        train_cmd.add_argument(
 	    "--lmbda", type=float, default=0.002, dest="lmbda",
 	    help="lambda for rate-distortion tradeoff.")
 	train_cmd.add_argument(
