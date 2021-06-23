@@ -77,4 +77,13 @@ python lfdaae.py decompress './output/ex.tfci' './output'
 Parts of the code here are borrowed from the example codes in the [Tensorflow Compression repository](https://github.com/tensorflow/compression). 
 
 If you find it useful in your research, kindly cite our PCS'21 paper.
-
+```
+@misc{singh2021learningbased,
+      title={Learning-Based Practical Light Field Image Compression Using A Disparity-Aware Model}, 
+      author={Mohana Singh and Renu M. Rameshan},
+      year={2021},
+      eprint={2106.11558},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+```
