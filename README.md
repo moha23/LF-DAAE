@@ -2,6 +2,8 @@
 
 This is the source code to our compression model in "Learning-Based Practical Light Field Image Compression Using A Disparity-Aware Model", M. Singh, R. M. Rameshan, PCS'21.
 
+http://arxiv.org/abs/2106.11558
+
 ![architecture](https://github.com/moha23/LF-DAAE/blob/main/archi.png)
 
 ## Requirements
@@ -68,7 +70,7 @@ python lfdaae.py decompress './output/ex.tfci' './output'
 ## To do
 
 - Update code for compatibility with TF2.5 and TFC2.2
-- Add paper/video links
+- Add video links
 
 ## Notes
 
