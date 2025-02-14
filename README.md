@@ -78,12 +78,12 @@ Parts of the code here are borrowed from the example codes in the [Tensorflow Co
 
 If you find it useful in your research, kindly cite our PCS'21 paper.
 ```
-@misc{singh2021learningbased,
-      title={Learning-Based Practical Light Field Image Compression Using A Disparity-Aware Model}, 
-      author={Mohana Singh and Renu M. Rameshan},
-      year={2021},
-      eprint={2106.11558},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@inproceedings{singh2021learning,
+  title={Learning-based practical light field image compression using a disparity-aware model},
+  author={Singh, Mohana and Rameshan, Renu M},
+  booktitle={2021 Picture Coding Symposium (PCS)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}
 }
 ```
