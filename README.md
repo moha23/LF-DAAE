@@ -4,6 +4,8 @@ This is the source code to our compression model in "Learning-Based Practical Li
 
 http://arxiv.org/abs/2106.11558
 
+Presentation Video: https://www.youtube.com/watch?v=i8Dy3stMpeo
+
 ![architecture](https://github.com/moha23/LF-DAAE/blob/main/archi.png)
 
 ## Requirements
